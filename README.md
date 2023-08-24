@@ -19,9 +19,9 @@
 </div>
 
 ### Curiosidades sobre mim 
-* Extrovertido
-* Ótimo em trabalhos de equipe
-* Brinco muito
+* Extrovertido;
+* Ótimo em trabalhos de equipe;
+* Adoro fazer piadas;
 * E me amarro em memes!
 
 
