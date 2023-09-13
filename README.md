@@ -1,4 +1,4 @@
-
+![Snake animation](https://github.com/BonafeRique/BonafeRique/blob/output/github-contribution-grid-snake.svg)
 # Fala, Devs! Me chamo Henrique. 
 ## Bem vindo ao meu perfil GitHub 👋
 
