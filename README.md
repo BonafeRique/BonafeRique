@@ -20,8 +20,8 @@
 ### Curiosidades sobre mim 
 * Extrovertido;
 * Ótimo em trabalhos de equipe;
-* Adoro fazer piadas;
-* E me amarro em memes!
+* Aprendo rápido e busco sempre aprimorar meus conhecimentos.
+
 
 
 
