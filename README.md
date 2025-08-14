@@ -41,11 +41,5 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebonafe&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebonafe&layout=compact&theme=tokyonight)
-
----
-
 💡 *"A tecnologia é a ponte entre ideias e soluções. E eu quero ajudar a construí-la."*
 
