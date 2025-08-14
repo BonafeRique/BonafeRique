@@ -35,7 +35,7 @@
 
 ## 📫 Contato  
 📧 **Email:** contato.henriquebona@gmail.com  
-💼 **LinkedIn:** [Seu LinkedIn Aqui](#)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/henriquebonafe/](#)  
 💻 **GitHub:** [github.com/henriquebonafe](https://github.com/henriquebonafe)  
 
 ---
