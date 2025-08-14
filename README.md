@@ -1,30 +1,49 @@
-# Fala, Devs! Me chamo Henrique. 
-## Bem vindo ao meu perfil GitHub 👋
+# 👋 Olá, eu sou o Henrique Bonafé  
 
-#### Tenho 17 anos e no momento estou aperfeiçoando meus conhecimentos em Phyton.
-<img height =100, weight= 100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+![GitHub followers](https://img.shields.io/github/followers/henriquebonafe?style=social)  
+![GitHub User's stars](https://img.shields.io/github/stars/henriquebonafe?style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=henriquebonafe&color=blue)
 
-#### Atualmente curso o 3º EM e trabalho num ramo diferente do meio tecnológico.
-#### Tenho alguns conhecimentos básicos em HTML e CSS ↡
-<img height= 75, weight= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height= 75, weight= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
+🐍 Atualmente me dedicando ao aprendizado de **Python** e desenvolvimento de projetos práticos.  
+📚 Conhecimentos básicos em **HTML** e **CSS**, sempre buscando evoluir.  
 
+---
 
-#### Caso queira entrar em contato, aqui estão os principais meios ↡
+## 🚀 Sobre mim  
+- 🎯 Meu objetivo é iniciar minha carreira como desenvolvedor Python.  
+- 📈 Aprendo rápido e estou sempre aberto a novos desafios.  
+- 🤝 Gosto de trabalhar em equipe e compartilhar conhecimento.  
 
-<div>
-<a href="https://instagram.com/bonafe__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato.henriquebona@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/henriquebonafe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+---
 
-### Curiosidades sobre mim 
-* Extrovertido;
-* Ótimo em trabalhos de equipe;
-* Aprendo rápido e busco sempre aprimorar meus conhecimentos.
+## 🛠️ Tecnologias e Ferramentas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Protheus](https://img.shields.io/badge/ERP%20Protheus-009688?style=for-the-badge)
 
+---
 
+## 📌 Projetos em Destaque  
+- [Projeto Automação SENAI](#) – Scripts de automação em Python  
+- [Exercícios de Lógica em Python](#)  
 
+---
 
+## 📫 Contato  
+📧 **Email:** contato.henriquebona@gmail.com  
+💼 **LinkedIn:** [Seu LinkedIn Aqui](#)  
+💻 **GitHub:** [github.com/henriquebonafe](https://github.com/henriquebonafe)  
 
+---
 
+## 📊 Estatísticas do GitHub  
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebonafe&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebonafe&layout=compact&theme=tokyonight)
 
+---
+
+💡 *"A tecnologia é a ponte entre ideias e soluções. E eu quero ajudar a construí-la."*
