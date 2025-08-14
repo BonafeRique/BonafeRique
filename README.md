@@ -30,8 +30,7 @@
 ---
 
 ## 📌 Projetos em Destaque  
-- [Projeto Automação SENAI](#) – Scripts de automação em Python  
-- [Exercícios de Lógica em Python](#)  
+- [Projeto Automação SENAI](#) – Scripts de automação em Python , Calculadora IMC.
 
 ---
 
