@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Projetos em Destaque  
-- [Projeto Automação SENAI](#) – Scripts de automação em Python , Calculadora IMC.
+- Projeto Automação SENAI – Scripts de automação em Python | Calculadora IMC, manipulação de dados, conversor de unidade, conversor de tipos de arquivo, calculadora, gerenciador de tarefas, etc...
 
 ---
 
