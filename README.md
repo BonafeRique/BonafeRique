@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Henrique Bonafé  
+# 👋 Fala, Devs! É Prazer! Sou Henrique Bonafé.
 
 ![GitHub followers](https://img.shields.io/github/followers/henriquebonafe?style=social)  
 ![GitHub User's stars](https://img.shields.io/github/stars/henriquebonafe?style=social)  
